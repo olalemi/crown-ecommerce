@@ -10,7 +10,7 @@ function Navigation() {
         <Link className="logo-container" to="/">
           <CrownLogo className="logo"/>
         </Link>
-        <div className="nav-link-container">
+        <div className="nav-links-container">
           <Link className="nav-link" to="/shop">
             SHOP
           </Link>
